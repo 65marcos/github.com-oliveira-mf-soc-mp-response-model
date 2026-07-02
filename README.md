@@ -19,7 +19,7 @@ authors:
     given-names: "Carlos Ribeiro"
   - family-names: "Oliveira"
     given-names: "Dener Márcio da Silva"
-repository-code: "https://github.com/yourusername/mp-soil-carbon-framework"
+repository-code: "https://github.com/oliveira-mf-soc-mp-soil-response-mode"
 version: 1.0.0
 date-released: 2026-07-02
 license: MIT
