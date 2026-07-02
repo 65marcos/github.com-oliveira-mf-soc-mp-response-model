@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software itself."
+type: software
+title: "SOC-MP-Response-Model: Framework Condicional para Resposta do SOC a MPs e Aditivos"
+authors:
+  - family-names: "Oliveira"
+    given-names: "Marcos Fernandes de"
+    affiliation: "Federal Institute of Science, Technology, and Education of Goias"
+  - family-names: "Castro"
+    given-names: "Carlos Frederico de Souza"
+    affiliation: "Federal Institute of Science and Technology Education of Goias"
+  - family-names: "Rodrigues"
+    given-names: "Carlos Ribeiro"
+    affiliation: "Federal Institute of Science and Technology Education of Goias"
+  - family-names: "Oliveira"
+    given-names: "Dener Marcio da Silva"
+    affiliation: "Federal University of Vicosa"
+repository-code: "https://github.com/oliveira-mf/soc-mp-response-model"
+version: 1.0.0
+date-released: 2026-07-02
+license: MIT
+preferred-citation:
+  type: article
+  title: "Microplastics derived from agricultural plastics: implications for the stability of soil aggregates and carbon dynamics in agricultural soils"
+  authors:
+    - family-names: "Oliveira"
+      given-names: "Marcos Fernandes de"
+    - family-names: "Castro"
+      given-names: "Carlos Frederico de Souza"
+    - family-names: "Rodrigues"
+      given-names: "Carlos Ribeiro"
+    - family-names: "Oliveira"
+      given-names: "Dener Marcio da Silva"
+  journal: "Polymer Degradation and Stability"
+  year: 2026
